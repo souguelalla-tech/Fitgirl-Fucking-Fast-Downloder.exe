@@ -1,4 +1,4 @@
-# FitGirl FuckingFast Link Extractor
+# FitGirl FuckingFast Link Extractor.exe
 
 ## Description
 Automated tool that extracts FuckingFast download links 
